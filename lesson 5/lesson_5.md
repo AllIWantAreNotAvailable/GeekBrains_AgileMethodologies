@@ -20,6 +20,6 @@ WiP для студента онлайн-школы ограничивается
 
 ## Kanban-доска
 
-![Kanban-доска](lesson%205/Kanban.svg)
+![Kanban-доска](/lesson%205/Kanban.svg)
 
 Рисунок 1 – Kanban-доска с текущими задачами
